@@ -1,7 +1,7 @@
 # Python---Chocolate-Bar-rating
 <br>
 
-Data Analysis done on Chocolate Bar ratings in Python and visualised un Tableau. This is part of the projects in my Career Foundry Course.
+Data Analysis done on Chocolate Bar ratings in Python and visualised in Tableau. 
 <br>
 
 ## Objective
