@@ -1,7 +1,9 @@
 # Python---Chocolate-Bar-rating
 <br>
+
 Data Analysis done on Chocolate Bar ratings in Python and visualised un Tableau. This is part of the projects in my Career Foundry Course.
 <br>
+
 ## Objective
 The dataset is narrowly focused on plain dark chocolate with an aim of appreciating the flavors of the cacao when made into chocolate. Since, the flavor is the most important component of the Flavors of Cacao ratings. Hence, Diversity, balance, intensity, and purity of flavors are all considered in the ratings.
 
