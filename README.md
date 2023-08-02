@@ -20,3 +20,9 @@ Flavors of Cacao Rating System:
 ## DATA
 
 The data is open source data by Kaggle from 2017 https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
+
+<br>
+
+## Visualizations
+
+Tableay link ; https://public.tableau.com/app/profile/priyanka1654/viz/ChocolateBarRating_16908964638430/Story1?publish=yes
