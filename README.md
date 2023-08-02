@@ -16,6 +16,7 @@ Flavors of Cacao Rating System:
 - 1= Unpleasant (mostly unpalatable)
 
 <br>
+
 ## DATA
 
 The data is open source data by Kaggle from 2017 Chocolate Bar Ratings Dataset
